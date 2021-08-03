@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Copyright (C) Juliusz Kościołek - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Juliusz Kościołek <juliusz@kosciolek.dev>, May 2021
+ */
+
+using System;
 using System.IO;
 using System.Security.Cryptography;
 using System.Text.RegularExpressions;
